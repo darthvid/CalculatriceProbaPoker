@@ -13,3 +13,5 @@
 
 
 // TODO: faites référence ici aux en-têtes supplémentaires nécessaires au programme
+
+#define NB_TOT_CARTE 7
