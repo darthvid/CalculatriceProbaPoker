@@ -1,0 +1,222 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A981EB1316635AB500F959E0 /* CalculatriceProbaPoker.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A981EB0F16635AB500F959E0 /* CalculatriceProbaPoker.cpp */; };
+		A981EB1416635AB500F959E0 /* stdafx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A981EB1016635AB500F959E0 /* stdafx.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		A968592C16635A5C0086E753 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		A968592E16635A5C0086E753 /* CalculatriceProbaPoker */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CalculatriceProbaPoker; sourceTree = BUILT_PRODUCTS_DIR; };
+		A981EB0F16635AB500F959E0 /* CalculatriceProbaPoker.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CalculatriceProbaPoker.cpp; sourceTree = SOURCE_ROOT; };
+		A981EB1016635AB500F959E0 /* stdafx.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = stdafx.cpp; sourceTree = SOURCE_ROOT; };
+		A981EB1116635AB500F959E0 /* stdafx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = stdafx.h; sourceTree = SOURCE_ROOT; };
+		A981EB1216635AB500F959E0 /* targetver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = targetver.h; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A968592B16635A5C0086E753 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A968592316635A5C0086E753 = {
+			isa = PBXGroup;
+			children = (
+				A968593116635A5C0086E753 /* CalculatriceProbaPoker */,
+				A968592F16635A5C0086E753 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A968592F16635A5C0086E753 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A968592E16635A5C0086E753 /* CalculatriceProbaPoker */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A968593116635A5C0086E753 /* CalculatriceProbaPoker */ = {
+			isa = PBXGroup;
+			children = (
+				A981EB0F16635AB500F959E0 /* CalculatriceProbaPoker.cpp */,
+				A981EB1016635AB500F959E0 /* stdafx.cpp */,
+				A981EB1116635AB500F959E0 /* stdafx.h */,
+				A981EB1216635AB500F959E0 /* targetver.h */,
+			);
+			path = CalculatriceProbaPoker;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A968592D16635A5C0086E753 /* CalculatriceProbaPoker */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A968593816635A5C0086E753 /* Build configuration list for PBXNativeTarget "CalculatriceProbaPoker" */;
+			buildPhases = (
+				A968592A16635A5C0086E753 /* Sources */,
+				A968592B16635A5C0086E753 /* Frameworks */,
+				A968592C16635A5C0086E753 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CalculatriceProbaPoker;
+			productName = CalculatriceProbaPoker;
+			productReference = A968592E16635A5C0086E753 /* CalculatriceProbaPoker */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A968592516635A5C0086E753 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = "Bertrand Hersent";
+			};
+			buildConfigurationList = A968592816635A5C0086E753 /* Build configuration list for PBXProject "CalculatriceProbaPoker" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = A968592316635A5C0086E753;
+			productRefGroup = A968592F16635A5C0086E753 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A968592D16635A5C0086E753 /* CalculatriceProbaPoker */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A968592A16635A5C0086E753 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A981EB1316635AB500F959E0 /* CalculatriceProbaPoker.cpp in Sources */,
+				A981EB1416635AB500F959E0 /* stdafx.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A968593616635A5C0086E753 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		A968593716635A5C0086E753 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		A968593916635A5C0086E753 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A968593A16635A5C0086E753 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A968592816635A5C0086E753 /* Build configuration list for PBXProject "CalculatriceProbaPoker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A968593616635A5C0086E753 /* Debug */,
+				A968593716635A5C0086E753 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A968593816635A5C0086E753 /* Build configuration list for PBXNativeTarget "CalculatriceProbaPoker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A968593916635A5C0086E753 /* Debug */,
+				A968593A16635A5C0086E753 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A968592516635A5C0086E753 /* Project object */;
+}
