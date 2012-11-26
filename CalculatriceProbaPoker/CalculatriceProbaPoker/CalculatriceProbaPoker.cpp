@@ -1,4 +1,4 @@
-// CalculatriceProbaPoker.cpp : définit le point d'entrée pour l'application console.
+// CalculatriceProbaPoker.cppï¿½: dï¿½finit le point d'entrï¿½e pour l'application console.
 //
 
 #include "stdafx.h"
