@@ -1,5 +1,5 @@
 //
-//  GenerationMainPossible.c
+//  Combinaison.c
 //  CalculatriceProbaPoker
 //
 //  Created by Bertrand Hersent on 11/26/12.
