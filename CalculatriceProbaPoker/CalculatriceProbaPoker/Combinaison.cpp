@@ -59,6 +59,8 @@ bool GenereCombinaison(char* TabComb[]){
                                             *TabComb[cpt] += cca5;
                                             *TabComb[cpt] += sco5;
                                             
+                                            cpt++;
+                                            
                                         }
                                     }
                                 }
@@ -74,13 +76,13 @@ bool GenereCombinaison(char* TabComb[]){
 
 
 char VerifieCouleur(int couleur){
-    if (couleur == 1)
+    if (couleur == '1')
         return 'k';
-    if (couleur == 2)
+    if (couleur == '2')
         return 'p';
-    if (couleur == 3)
+    if (couleur == '3')
         return 'q';
-    if (couleur == 4)
+    if (couleur == '4')
         return 't';
 }
 
