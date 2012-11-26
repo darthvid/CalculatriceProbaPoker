@@ -9,3 +9,6 @@
 
 //permet son chargement si seulement il n'a pas ete telecharger.
 #pragma once
+bool GenereCombinaison(char* TabComb[]);
+char VerifieCouleur(int couleur);
+char VerifieCarte(int numeroCarte);
