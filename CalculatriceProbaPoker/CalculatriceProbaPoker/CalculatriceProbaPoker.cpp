@@ -6,6 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	printf("%s\n", "test");
 	return 0;
 }
 
