@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		A981EB1316635AB500F959E0 /* CalculatriceProbaPoker.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A981EB0F16635AB500F959E0 /* CalculatriceProbaPoker.cpp */; };
 		A981EB1416635AB500F959E0 /* stdafx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A981EB1016635AB500F959E0 /* stdafx.cpp */; };
+		A9F4EBCF1663619E006FFD97 /* GenerationMainPossible.c in Sources */ = {isa = PBXBuildFile; fileRef = A9F4EBCE1663619E006FFD97 /* GenerationMainPossible.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		A981EB1016635AB500F959E0 /* stdafx.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = stdafx.cpp; sourceTree = SOURCE_ROOT; };
 		A981EB1116635AB500F959E0 /* stdafx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = stdafx.h; sourceTree = SOURCE_ROOT; };
 		A981EB1216635AB500F959E0 /* targetver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = targetver.h; sourceTree = SOURCE_ROOT; };
+		A9F4EBCE1663619E006FFD97 /* GenerationMainPossible.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = GenerationMainPossible.c; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				A981EB1016635AB500F959E0 /* stdafx.cpp */,
 				A981EB1116635AB500F959E0 /* stdafx.h */,
 				A981EB1216635AB500F959E0 /* targetver.h */,
+				A9F4EBCE1663619E006FFD97 /* GenerationMainPossible.c */,
 			);
 			path = CalculatriceProbaPoker;
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			files = (
 				A981EB1316635AB500F959E0 /* CalculatriceProbaPoker.cpp in Sources */,
 				A981EB1416635AB500F959E0 /* stdafx.cpp in Sources */,
+				A9F4EBCF1663619E006FFD97 /* GenerationMainPossible.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
